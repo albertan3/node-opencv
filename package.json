@@ -36,7 +36,7 @@
     "url": "https://github.com/peterbraden/node-opencv.git"
   },
   "engines": {
-    "node": ">=0.12"
+    "node": "6.5.0"
   },
   "binary": {
     "module_name": "opencv",
